@@ -1,0 +1,27 @@
+{
+  "name": "testaxios",
+  "version": "1.0.0",
+  "description": "testing axios",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belleblazer4life/testAxios.git"
+  },
+  "keywords": [
+    "axios",
+    "requests"
+  ],
+  "author": "RD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/belleblazer4life/testAxios/issues"
+  },
+  "homepage": "https://github.com/belleblazer4life/testAxios#readme"
+}
