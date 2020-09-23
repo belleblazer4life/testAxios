@@ -4,7 +4,8 @@
   "description": "testing axios",
   "main": "app.js",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "jsdom": "^16.4.0"
   },
   "devDependencies": {},
   "scripts": {
